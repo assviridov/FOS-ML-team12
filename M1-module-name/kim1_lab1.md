@@ -5,6 +5,6 @@
 |---|-------------------|------------|----------------------------|----------------|
 | 1 | EDA и визуализация данных | ML-2.2 | Загружать и исследовать табличные данные, определять роли и смысловые типы признаков, выявлять пропуски, дубликаты и потенциальные выбросы, строить и интерпретировать визуализации, формулировать первичные выводы и план дальнейшей предварительной обработки данных. | Notebook и объяснение. Балл 0–2. |
 
-[Ссылка на задание] (https://colab.research.google.com/drive/1xagSIQkp9WsHsEY4pgLfgYmCVGDyyl4k?usp=sharing)
+[Ссылка на задание](https://colab.research.google.com/drive/1xagSIQkp9WsHsEY4pgLfgYmCVGDyyl4k?usp=sharing)
 
-[Ссылка на dataset] ([https://colab.research.google.com/drive/1xagSIQkp9WsHsEY4pgLfgYmCVGDyyl4k?usp=sharing](https://disk.yandex.ru/d/Ja2u3xPn6EuYbg))
+[Ссылка на dataset](https://disk.yandex.ru/d/Ja2u3xPn6EuYbg))
