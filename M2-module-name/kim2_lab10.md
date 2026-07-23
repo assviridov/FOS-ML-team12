@@ -5,8 +5,8 @@
 |---|-------------------|------------|----------------------------|----------------|
 | 1 | Ансамблевые методы | ML-2.3; ML-3.1 | Применять Bagging, Random Forest и Gradient Boosting, сравнивать ансамбли с одиночным деревом, исследовать влияние параметров на качество и устойчивость моделей и интерпретировать feature importance. | Notebook и объяснение. Балл 0–2. |
 
-[Ссылка на задание](https://colab.research.google.com/drive/12bX2yXtuXW9XGCuU56tYf07EtjxK9_sJ?usp=sharing)
+[Ссылка на задание](https://colab.research.google.com/drive/132VbmWxJBBVydCiNtBPVicaHnlopsSxb?usp=sharing)
 
-[Ссылка на dataset](https://disk.yandex.ru/d/C3r4wpA1w9Nwpw)
+[Ссылка на dataset](https://disk.yandex.ru/d/0Ci1fwo-G0KbTQ)
 
 
