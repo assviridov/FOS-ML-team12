@@ -5,8 +5,8 @@
 |---|-------------------|------------|----------------------------|----------------|
 | 1 | kNN и SVM | ML-2.3; ML-3.1 | Применять kNN и SVM для классификации, выполнять масштабирование признаков, исследовать параметры k, C и gamma, сравнивать модели по validation-метрикам и обосновывать выбор алгоритма и гиперпараметров. | Notebook и объяснение. Балл 0–2. |
 
-[Ссылка на задание](https://colab.research.google.com/drive/12sua6QrIKz0z7n-AzSCcLgQcGchOQsBi?usp=sharing)
+[Ссылка на задание](https://colab.research.google.com/drive/1U3g99XYZDEsdVvqJs5MkCYyDPbElu32X?usp=sharing)
 
-[Ссылка на dataset](https://disk.yandex.ru/d/ha50Vbtw53KrtA)
+[Ссылка на dataset](https://disk.yandex.ru/d/_R9hn2k1uUA_fQ)
 
 
