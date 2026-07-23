@@ -7,4 +7,4 @@
 
 [Ссылка на задание](https://colab.research.google.com/drive/1xagSIQkp9WsHsEY4pgLfgYmCVGDyyl4k?usp=sharing)
 
-[Ссылка на dataset](https://disk.yandex.ru/d/Ja2u3xPn6EuYbg))
+[Ссылка на dataset](https://disk.yandex.ru/d/Ja2u3xPn6EuYbg)
