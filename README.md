@@ -6,7 +6,7 @@
 
 - [Рабочая программа дисциплины](docs/rpd.md)
 - [Методические указания](methodical-guidelines/README.md)
-- [Информационные ресурсы](resources /README.md)
+- [Информационные ресурсы](resources/README.md)
 - [Команда проекта](team/README.md)
 - [Контроль качества репозитория](docs/quality-checklist.md)
 
