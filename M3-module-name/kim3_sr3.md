@@ -4,6 +4,7 @@
 
 **Содержание:** предварительная подготовка данных, `StandardScaler`, PCA, explained variance и 2D‑визуализация, кластеризация K‑means и DBSCAN, выбор параметров и сравнение результатов, обнаружение аномалий с помощью Isolation Forest / One‑Class SVM, поиск ассоциативных правил Apriori, support, confidence, lift и интерпретация результатов.
 
+[Задание для выполнения](https://disk.yandex.ru/d/iaePLvFibmAVog)
 ---
 
 ### Разделы и обязательное содержание
