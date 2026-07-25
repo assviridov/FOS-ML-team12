@@ -17,7 +17,7 @@
 | Семейство | Регрессионный датасет | Классификационный датасет | Что сравнивается |
 |-----------|------------------------|---------------------------|-------------------|
 | **Линейные модели** | `LinearRegression`; `Ridge`; `Lasso`; `ElasticNet` | `LogisticRegression` с базовым и при необходимости `balanced class_weight` | Коэффициенты, регуляризация, простота и интерпретируемость |
-| **kNN** | `KNeighborsRegressor` | `KNeighborsClassifier` | Scaling, число соседей, метрика расстояния и вычислительная стоимость |
+| **k-NN** | `KNeighborsRegressor` | `KNeighborsClassifier` | Scaling, число соседей, метрика расстояния и вычислительная стоимость |
 | **SVM** | `SVR`: linear и/или RBF | `SVC`: linear и RBF; `probability`/`decision score` для ROC/PR | Параметры C, gamma, kernel и чувствительность к scaling |
 | **Решающие деревья** | `DecisionTreeRegressor` | `DecisionTreeClassifier` | `max_depth`, `min_samples_leaf`, переобучение и интерпретация правил |
 | **Ансамбли** | `BaggingRegressor`; `RandomForestRegressor`; `GradientBoostingRegressor` | `BaggingClassifier`; `RandomForestClassifier`; `GradientBoostingClassifier` | Снижение variance, устойчивость, `n_estimators`, `learning_rate` и `feature importance` |
@@ -57,7 +57,7 @@
 | Постановка двух задач и аудит данных | 8 | Для каждого датасета определены тип задачи, target, основная метрика, качество и ограничения |
 | Разбиение и preprocessing | 10 | Для каждого датасета используется корректный development/test split и preprocessing внутри Pipeline |
 | Линейные модели | 12 | Linear/Ridge/Lasso/ElasticNet для регрессии; LogisticRegression для классификации |
-| kNN на двух датасетах | 10 | `KNeighborsRegressor` и `KNeighborsClassifier`; scaling и выбор k |
+| k-NN на двух датасетах | 10 | `KNeighborsRegressor` и `KNeighborsClassifier`; scaling и выбор k |
 | SVM на двух датасетах | 12 | `SVR` и `SVC`; linear/RBF kernel; влияние C, gamma и scaling |
 | Решающие деревья | 10 | `DecisionTreeRegressor` и `DecisionTreeClassifier`; ограничения глубины и диагностика переобучения |
 | Ансамблевые модели | 15 | Bagging, Random Forest и Gradient Boosting для обеих задач; сравнение с одиночным деревом |
