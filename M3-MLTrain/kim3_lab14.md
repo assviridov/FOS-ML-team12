@@ -2,9 +2,9 @@
 
 | № | Учебный практикум | Индикаторы | Что должен освоить студент | Текущая оценка |
 |---|-------------------|------------|----------------------------|----------------|
-| 1 | PCA | ML-4.1 | Подготавливать данные для PCA, анализировать explained variance и loadings, выбирать число компонент и оценивать потерю информации с помощью reconstruction error. | Notebook и объяснение. Балл 0–2. |
+| 1 | PCA | ML-4.1 | Подготавливать данные для линейного и нелинейного снижения размерности, применять и сравнивать PCA, t-SNE и Isomap, интерпретировать explained variance, loadings и reconstruction error, оценивать сохранение локального соседства по trustworthiness и учитывать ограничения двумерных проекций. | Notebook и объяснение. Балл 0–2. |
 
-[Ссылка на задание](https://colab.research.google.com/drive/1nb3v-ulPnNyflPU-Uj8lRunBcAltvMr1?usp=sharing)
+[Ссылка на задание](https://colab.research.google.com/drive/1RSBQlm_xvsP7xRKLvoHk53tNaI_A0xW0?usp=sharing)
 
 [Ссылка на dataset](https://disk.yandex.ru/d/u_n8-lceMYMvoQ)
 
