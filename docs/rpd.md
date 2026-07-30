@@ -106,7 +106,7 @@
 | Лекция 6. Деревья решений и ансамбли | Decision Tree, критерии Gini и entropy, Random Forest, bagging, Gradient Boosting, feature importance. | Л | 2 | ML-3 | ML-3.1; ML-3.2 | С |
 | Лекция 7. Выбор модели и настройка гиперпараметров | Validation split, cross-validation, GridSearchCV, RandomizedSearchCV, сравнение моделей и выбор лучшей модели. | Л | 2 | ML-2; ML-3 | ML-2.3; ML-3.1 | С |
 | ЛР 4. Линейная регрессия | Построение базовой регрессионной модели, анализ коэффициентов, actual vs predicted, residual analysis, MAE, RMSE, R². | ЛР | 2 | ML-2; ML-3; MF-3 | ML-2.3; ML-3.1; MF-3.1 | С |
-| ЛР 5. Регуляризация и overfitting | Диагностика переобучения, Ridge, Lasso, ElasticNet, подбор alpha, анализ train-validation gap. | ЛР | 2 | ML-3 | ML-2.3; ML-3.1 | С |
+| ЛР 5. Ridge, Lasso и Elastic Net | Диагностика переобучения, Ridge, Lasso, ElasticNet, подбор alpha, анализ train-validation gap. | ЛР | 2 | ML-3 | ML-2.3; ML-3.1 | С |
 | ЛР 6. Логистическая регрессия | Бинарная классификация, вероятности, ROC-кривая, PR-кривая, threshold, F1, дисбаланс классов. | ЛР | 2 | ML-2; ML-3 | ML-2.3; ML-3.1 | С |
 | ЛР 7. Многоклассовая классификация | Softmax / One-vs-Rest, macro-F1, weighted-F1, confusion matrix по классам, интерпретация ошибок. | ЛР | 2 | ML-2; ML-3 | ML-2.3; ML-3.1 | С |
 | ЛР 8. k‑NN и SVM | Масштабирование признаков, метрики расстояния, выбор k, validation curve, сравнение качества. Linear SVM, kernel SVM, параметры C и gamma, влияние scaling, сравнение с логистической регрессией. | ЛР | 2 | ML-2; ML-3 | ML-2.3; ML-3.1 | С |
@@ -125,7 +125,7 @@
 | Лекция 8. Обучение без учителя | K‑means, DBSCAN, PCA, поиск аномалий, ассоциативные правила, ограничения интерпретации результатов. | Л | 2 | ML-4 | ML-4.1; ML-4.2 | С |
 | ЛР 12. K‑means | Кластеризация, выбор числа кластеров, elbow method, silhouette score, визуализация кластеров. | ЛР | 2 | ML-4 | ML-4.1 | С |
 | ЛР 13. DBSCAN | Параметры eps и min_samples, шумовые точки, кластеры произвольной формы, сравнение с K‑means. | ЛР | 2 | ML-4 | ML-4.1 | С |
-| ЛР 14. PCA | StandardScaler, PCA, explained variance, 2D‑визуализация, анализ потери информации. | ЛР | 2 | ML-4 | ML-4.1 | С |
+| ЛР 14. Понижение размерности | StandardScaler, PCA, explained variance, 2D‑визуализация, анализ потери информации. | ЛР | 2 | ML-4 | ML-4.1 | С |
 | ЛР 15. Поиск аномалий и ассоциативные правила | Isolation Forest / One‑Class SVM, Apriori, support, confidence, lift, интерпретация результатов. | ЛР | 2 | ML-4 | ML-4.2 | С |
 | СР 3. Кластеризация, PCA, поиск аномалий и ассоциативные правила | Предварительная подготовка данных, StandardScaler, PCA, explained variance и 2D‑визуализация, кластеризация K‑means и DBSCAN, выбор параметров и сравнение результатов, обнаружение аномалий с помощью Isolation Forest / One‑Class SVM, поиск ассоциативных правил Apriori, support, confidence, lift и интерпретация результатов. | — | — | ML-2; ML-4 | ML-2.2; ML-4.1; ML-4.2 | С |
 
